@@ -41,3 +41,11 @@ The HR Analytics Dashboard has contributed to measurable improvements in HR stra
 - 📉 **30% drop in manual reporting errors**, resulting in cleaner and more trustworthy insights.
 
 
+
+
+
+
+
+  
+
+
