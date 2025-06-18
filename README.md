@@ -44,6 +44,7 @@ The HR Analytics Dashboard has contributed to measurable improvements in HR stra
 
 
 
+![image alt](https://github.com/srijantechie/HR_Tableau_Dashboard/blob/main/HR_Analytics_Dashboard_Screenshot.png?raw=true)
 
 
   
