@@ -31,7 +31,7 @@ This dashboard provides a visual exploration of employee data to help HR teams:
 -  **Job Role & Salary Review:** Drill down into specific roles and their respective compensation
 
 
- Impact Created (Quantified)
+ ## Impact Created (Quantified)
 
 The HR Analytics Dashboard has contributed to measurable improvements in HR strategy:
 
